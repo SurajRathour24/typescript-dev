@@ -28,3 +28,7 @@ enum websiteStatusCode {
 websiteStatusCode.JS;
 
 // Strings 
+
+let str = "dev";
+
+console.log(str);
