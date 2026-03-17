@@ -13,3 +13,5 @@ enum UserRoles {
 }
 
 UserRoles.Admin;
+
+// Enum are use to reuse o like obj
