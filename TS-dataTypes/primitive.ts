@@ -23,3 +23,10 @@ let isActive: boolean = true;
 let username: string = "Suraj";
 
 console.log(age, isActive, username);
+
+
+let numbers: number[] = [1, 2, 3, 4];
+let names: string[] = ["Ram", "Shyam", "Suraj"];
+
+console.log(numbers);
+console.log(names);
